@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.container{
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.header{
+    width: 1440px;
+    height: 1024px;
+    background-image: url(Assu/image\ 1\ \(1\).png);
+
+}
+.nav{
+    width: 100%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between; 
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    gap: 68px;
+}
+
+.play{
+    display: flex;
+    background-color:  rgba(0, 159, 245, 0.71);
+    box-shadow: 0px 4px 4px 0px rgba(218, 211, 255, 1);;
+    border-radius: 10px;
+}
+.h2{
+    width: 243;
+    height: 50;
+    color: white;
+}
+.p{ 
+    color: white;
+}
+.div{
+    width: 100%;
+    background-color: rgba(255, 198, 17, 1);
+    border-radius: 50px;
+    width: 604px;
+    height: 103px;
+    text-align: center;
+    border-radius:
+}
+.h3{
+    padding: 49px 31px 49px 30px;
+    box-shadow: border: 11px solid rgba(90, 85, 85, 1);
+}
+.kartochki{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.card{
+    width: 361px;
+    height: 420px;
+    background-color: black;
+    color: white;
+}
